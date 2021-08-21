@@ -1,0 +1,1321 @@
+<FLIGHT_1> <SPA> B Z 7 7 5 6
+<FLIGHT_0> <SPA> 月 末 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 西 部 航 空
+<TRAIN_1> <SPA> C 2 1 6
+<TRAIN_1> <SPA> C 8 8 4 9
+<FLIGHT_0> <SPA> 中 秋 节 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 西 部 航 空
+<VEHICLE_0> <SPA> 下 午 <SPA> 巴 中 市
+<WEATHER_0> <SPA> 海 口 市 <SPA> 初 一
+<VEHICLE_0> <SPA> 明 天 <SPA> 海 口 市
+<TRANSLATE_0> <SPA> 情 几 穿 心 赛 死 候 足 <SPA> 德 语
+<FLIGHT_0> <SPA> <DATE_DEFAULT> <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<DICTIONARY_0> <SPA> 人 情 世 故
+<WEATHER_1> <SPA> 巴 中 市 <SPA> <DATE_DEFAULT>
+<DICTIONARY_0> <SPA> 柳 暗 花 明
+<VEHICLE_0> <SPA> 星 期 日 <SPA> 临 汾 市
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 八 号
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 初 一
+<TRANSLATE_0> <SPA> 掌 直 顺 <SPA> 英 语
+<FLIGHT_1> <SPA> Y L 2 8 6 3
+<VEHICLE_0> <SPA> 八 号 <SPA> 海 口 市
+<TRAIN_1> <SPA> G 4 5 3
+<TRANSLATE_0> <SPA> 毕 待 克 又 丰 料 <SPA> 韩 语
+<WEATHER_0> <SPA> 沈 阳 市 <SPA> 明 天 下 午
+<WEATHER_1> <SPA> 海 口 市 <SPA> 白 天
+<VEHICLE_0> <SPA> 明 天 白 天 <SPA> 巴 中 市
+<FLIGHT_1> <SPA> Z L 2 0 3 1
+<WEATHER_1> <SPA> 海 口 市 <SPA> 五 号
+<TRAIN_1> <SPA> T 4 6
+<TRANSLATE_0> <SPA> 睡 <SPA> 德 语
+<FLIGHT_0> <SPA> 月 末 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 海 航
+<PERSON_0> <SPA> 杨 子 姗
+<FOOD_1> <SPA> 海 口 市
+<FLIGHT_0> <SPA> 五 号 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 西 部 航 空
+<FLIGHT_0> <SPA> 劳 动 节 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 山 航
+<FLIGHT_0> <SPA> 下 午 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<VEHICLE_0> <SPA> 元 宵 节 <SPA> 沈 阳 市
+<WEATHER_1> <SPA> 沈 阳 市 <SPA> 明 天 下 午
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 白 天
+<VEHICLE_0> <SPA> 下 午 <SPA> 海 口 市
+<VEHICLE_0> <SPA> 明 天 <SPA> 巴 中 市
+<FLIGHT_1> <SPA> W Q 2 3 6 0
+<VEHICLE_0> <SPA> 星 期 日 <SPA> 巴 中 市
+<FLIGHT_0> <SPA> 中 秋 节 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<PERSON_0> <SPA> 陈 思 诚
+<FLIGHT_0> <SPA> 晚 上 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 厦 航
+<TRAIN_1> <SPA> K 8 7 1 1
+<TRANSLATE_0> <SPA> 睡 <SPA> 西 班 牙 语
+<FOOD_1> <SPA> 海 口 市
+<FLIGHT_0> <SPA> 九 号 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 西 部 航 空
+<PERSON_0> <SPA> 陈 数
+<WEATHER_0> <SPA> 海 口 市 <SPA> 五 号
+<PERSON_0> <SPA> 陈 数
+<TRANSLATE_0> <SPA> 掌 直 顺 <SPA> 韩 语
+<TRAIN_1> <SPA> L 9 6 6 4
+<TRANSLATE_0> <SPA> 类 尽 厚 简 投 流 相 男 夫 <SPA> 日 语
+<PERSON_0> <SPA> 董 成 鹏
+<TRANSLATE_0> <SPA> 掌 直 顺 <SPA> 俄 语
+<VEHICLE_0> <SPA> 十 五 <SPA> 海 口 市
+<TRANSLATE_0> <SPA> 毕 待 克 又 丰 料 <SPA> 韩 语
+<VEHICLE_0> <SPA> 下 午 <SPA> 沈 阳 市
+<TRANSLATE_0> <SPA> 情 几 穿 心 赛 死 候 足 <SPA> 德 语
+<TRAIN_0> <SPA> 初 一 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 高 铁
+<FLIGHT_0> <SPA> 周 六 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 西 部 航 空
+<VEHICLE_0> <SPA> 下 午 <SPA> 沈 阳 市
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 白 天
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 明 天 下 午
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 白 天
+<WEATHER_1> <SPA> 沈 阳 市 <SPA> 初 一
+<VEHICLE_0> <SPA> 周 二 <SPA> 临 汾 市
+<TRAIN_1> <SPA> K 2 1 8 7
+<FLIGHT_0> <SPA> 中 秋 节 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_1> <SPA> Y L 8 1 7 8
+<FLIGHT_0> <SPA> 中 秋 节 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 厦 航
+<VEHICLE_0> <SPA> 五 号 <SPA> 临 汾 市
+<WEATHER_0> <SPA> 海 口 市 <SPA> 初 四
+<TRANSLATE_0> <SPA> 情 几 穿 心 赛 死 候 足 <SPA> 西 班 牙 语
+<FLIGHT_1> <SPA> C F 0 1 0 1
+<WEATHER_1> <SPA> 海 口 市 <SPA> 八 号
+<VEHICLE_0> <SPA> 明 天 白 天 <SPA> 沈 阳 市
+<VEHICLE_0> <SPA> 明 天 白 天 <SPA> 巴 中 市
+<VEHICLE_0> <SPA> 下 周 <SPA> 海 口 市
+<TRAIN_0> <SPA> <DATE_DEFAULT> <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 火 车
+<TRANSLATE_0> <SPA> 毕 待 克 又 丰 料 <SPA> 日 语
+<TRAIN_1> <SPA> D 2 9 7 6
+<VEHICLE_0> <SPA> 明 天 <SPA> 沈 阳 市
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 初 四
+<FLIGHT_0> <SPA> 晚 上 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 昆 明 航 空
+<VEHICLE_0> <SPA> 初 七 <SPA> 临 汾 市
+<VEHICLE_0> <SPA> 今 晚 <SPA> 巴 中 市
+<WEATHER_1> <SPA> 沈 阳 市 <SPA> 五 号
+<MOVIE_0> <SPA> 素 媛
+<TRAIN_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 高 铁
+<FLIGHT_1> <SPA> J M 0 8 4 0
+<TRANSLATE_0> <SPA> 掌 直 顺 <SPA> 法 语
+<VEHICLE_0> <SPA> 元 宵 节 <SPA> 巴 中 市
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 初 一
+<FLIGHT_0> <SPA> 月 末 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 川 航
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 明 天 下 午
+<FLIGHT_0> <SPA> 下 周 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 明 天 下 午
+<FLIGHT_0> <SPA> <DATE_DEFAULT> <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 山 航
+<FLIGHT_1> <SPA> T G 2 3 6 1
+<PERSON_0> <SPA> 包 贝 尔
+<WEATHER_1> <SPA> 海 口 市 <SPA> 初 四
+<WEATHER_1> <SPA> 海 口 市 <SPA> 八 号
+<TRANSLATE_0> <SPA> 睡 <SPA> 日 语
+<FLIGHT_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<VEHICLE_0> <SPA> 元 宵 节 <SPA> 巴 中 市
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 初 一
+<FLIGHT_0> <SPA> 九 号 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 南 航
+<TRAIN_1> <SPA> K 0 5 5 8
+<FLIGHT_0> <SPA> 下 午 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<TRAIN_1> <SPA> T 4 6
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 初 一
+<TRAIN_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 火 车
+<TRANSLATE_0> <SPA> 掌 直 顺 <SPA> 汉 语
+<WEATHER_1> <SPA> 沈 阳 市 <SPA> 五 号
+<WEATHER_0> <SPA> 沈 阳 市 <SPA> 初 一
+<TRANSLATE_0> <SPA> 掌 直 顺 <SPA> 西 班 牙 语
+<FLIGHT_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 成 都 航 空
+<FLIGHT_1> <SPA> C K 6 8 4 3
+<FOOD_0> <SPA> 樱 桃
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 明 天 下 午
+<FLIGHT_0> <SPA> 晚 上 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 西 部 航 空
+<FLIGHT_1> <SPA> M B 5 2 5 8
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 白 天
+<TRANSLATE_0> <SPA> 类 尽 厚 简 投 流 相 男 夫 <SPA> 日 语
+<MOVIE_0> <SPA> 当 幸 福 来 敲 门
+<FLIGHT_0> <SPA> 周 六 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<VEHICLE_0> <SPA> 下 午 <SPA> 临 汾 市
+<FLIGHT_1> <SPA> Z Z 8 7 7 6
+<TRAIN_1> <SPA> T 8 3 4 8
+<FLIGHT_1> <SPA> T M 9 3 8 9
+<PERSON_0> <SPA> 车 晓
+<VEHICLE_0> <SPA> 明 天 白 天 <SPA> 沈 阳 市
+<MOVIE_0> <SPA> 猩 球 崛 起
+<MOVIE_0> <SPA> 寻 梦 环 游 记
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 初 一
+<FOOD_2> <SPA> 辣 白 菜 五 花 肉
+<VEHICLE_0> <SPA> 今 晚 <SPA> 巴 中 市
+<FLIGHT_0> <SPA> 下 午 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 山 航
+<PERSON_0> <SPA> 刘 敏
+<WEATHER_0> <SPA> 海 口 市 <SPA> 明 天 下 午
+<FLIGHT_0> <SPA> 中 秋 节 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_0> <SPA> 下 周 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 八 号
+<FLIGHT_0> <SPA> 劳 动 节 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<WEATHER_1> <SPA> 海 口 市 <SPA> 明 天 下 午
+<VEHICLE_0> <SPA> 八 号 <SPA> 沈 阳 市
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 初 一
+<WEATHER_0> <SPA> 海 口 市 <SPA> 八 号
+<TRAIN_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 快 车
+<TRANSLATE_0> <SPA> 情 几 穿 心 赛 死 候 足 <SPA> 法 语
+<VEHICLE_0> <SPA> 元 宵 节 <SPA> 海 口 市
+<VEHICLE_0> <SPA> 八 号 <SPA> 海 口 市
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 初 一
+<FLIGHT_1> <SPA> I B 2 8 4 7
+<FLIGHT_1> <SPA> O P 8 9 3 4
+<TRANSLATE_0> <SPA> 情 几 穿 心 赛 死 候 足 <SPA> 韩 语
+<VEHICLE_0> <SPA> 十 五 <SPA> 海 口 市
+<PERSON_0> <SPA> 杨 子 姗
+<VEHICLE_0> <SPA> 下 周 <SPA> 沈 阳 市
+<VEHICLE_0> <SPA> 八 号 <SPA> 海 口 市
+<DICTIONARY_0> <SPA> 花 容 月 貌
+<TRAIN_1> <SPA> C 3 1 9 3
+<WEATHER_0> <SPA> <CITY_DEFAULT> <SPA> 明 晚
+<TRANSLATE_0> <SPA> 类 尽 厚 简 投 流 相 男 夫 <SPA> 英 语
+<FOOD_0> <SPA> 樱 桃
+<TRAIN_1> <SPA> L 3 3 0
+<VEHICLE_0> <SPA> 元 宵 节 <SPA> 海 口 市
+<VEHICLE_0> <SPA> 星 期 五 <SPA> 巴 中 市
+<WEATHER_0> <SPA> <CITY_DEFAULT> <SPA> 明 晚
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 明 天 下 午
+<TRANSLATE_0> <SPA> 毕 待 克 又 丰 料 <SPA> 汉 语
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 初 一
+<TRAVEL_0> <SPA> 海 口 市
+<PERSON_0> <SPA> 包 贝 尔
+<WEATHER_0> <SPA> <CITY_DEFAULT> <SPA> 今 晚
+<TRAIN_1> <SPA> T 4 3 9
+<FLIGHT_0> <SPA> 中 秋 节 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 南 航
+<WEATHER_0> <SPA> 沈 阳 市 <SPA> 初 一
+<FLIGHT_1> <SPA> C C 0 3 9 5
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 五 号
+<VEHICLE_0> <SPA> 八 号 <SPA> 巴 中 市
+<TRAIN_1> <SPA> K 9 3 7 1
+<TRAVEL_1> <SPA> 荷 兰 风 车 博 物 馆
+<VEHICLE_0> <SPA> 五 号 <SPA> 巴 中 市
+<VEHICLE_0> <SPA> 两 天 以 后 <SPA> 海 口 市
+<TRAIN_1> <SPA> L 3 6 8
+<TRANSLATE_0> <SPA> 睡 <SPA> 英 语
+<FLIGHT_1> <SPA> H V 3 4 9 6
+<WEATHER_0> <SPA> <CITY_DEFAULT> <SPA> 今 晚
+<WEATHER_0> <SPA> 沈 阳 市 <SPA> 初 四
+<FLIGHT_0> <SPA> 五 号 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_0> <SPA> 月 末 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<TRANSLATE_0> <SPA> 激 向 使 果 <SPA> 俄 语
+<FLIGHT_0> <SPA> 下 周 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 国 航
+<WEATHER_0> <SPA> <CITY_DEFAULT> <SPA> 下 周
+<WEATHER_0> <SPA> 海 口 市 <SPA> 明 天 下 午
+<TRANSLATE_0> <SPA> 激 向 使 果 <SPA> 日 语
+<FLIGHT_0> <SPA> 周 六 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_0> <SPA> 月 末 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<WEATHER_1> <SPA> 沈 阳 市 <SPA> 八 号
+<FOOD_2> <SPA> 蒸 出 粒 粒 香 滑 鸡 翅
+<FLIGHT_0> <SPA> 五 号 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<TRAIN_0> <SPA> <DATE_DEFAULT> <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 动 车
+<MOVIE_0> <SPA> 当 幸 福 来 敲 门
+<TRAIN_1> <SPA> K 5 5 0 1
+<TRAIN_1> <SPA> G 0 8 3 5
+<FOOD_2> <SPA> 红 薯 丸 子
+<VEHICLE_0> <SPA> 初 七 <SPA> 海 口 市
+<TRAIN_1> <SPA> K 0 5 5 8
+<TRAIN_0> <SPA> 今 晚 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 火 车
+<TRAIN_1> <SPA> Z 3 3 9 0
+<TRAIN_0> <SPA> <DATE_DEFAULT> <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 快 车
+<TRAIN_1> <SPA> T 4 3 9
+<FOOD_1> <SPA> 巴 中 市
+<VEHICLE_0> <SPA> 两 天 以 后 <SPA> 沈 阳 市
+<FLIGHT_0> <SPA> 周 二 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<TRANSLATE_0> <SPA> 类 尽 厚 简 投 流 相 男 夫 <SPA> 俄 语
+<VEHICLE_0> <SPA> 星 期 五 <SPA> 巴 中 市
+<WEATHER_0> <SPA> 海 口 市 <SPA> 初 四
+<TRANSLATE_0> <SPA> 情 几 穿 心 赛 死 候 足 <SPA> 法 语
+<TRAIN_1> <SPA> L 2 7 1
+<FLIGHT_0> <SPA> 五 号 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_1> <SPA> Z A 5 0 3 1
+<TRANSLATE_0> <SPA> 睡 <SPA> 德 语
+<WEATHER_0> <SPA> 海 口 市 <SPA> 八 号
+<TRAVEL_1> <SPA> 庄 园 大 花 园
+<FLIGHT_0> <SPA> 周 六 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<WEATHER_0> <SPA> 海 口 市 <SPA> 初 四
+<TRANSLATE_0> <SPA> 类 尽 厚 简 投 流 相 男 夫 <SPA> 汉 语
+<FLIGHT_0> <SPA> 下 午 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 厦 航
+<FLIGHT_1> <SPA> Y U 9 1 8 9
+<FLIGHT_1> <SPA> Y U 9 1 8 9
+<FLIGHT_1> <SPA> P I 0 4 6 8
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 白 天
+<PERSON_0> <SPA> 白 举 纲
+<FLIGHT_0> <SPA> 五 号 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 昆 明 航 空
+<VEHICLE_0> <SPA> 星 期 日 <SPA> 巴 中 市
+<FLIGHT_0> <SPA> 晚 上 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<WEATHER_1> <SPA> 海 口 市 <SPA> 明 天 下 午
+<VEHICLE_0> <SPA> 星 期 日 <SPA> 沈 阳 市
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 初 四
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 明 天 下 午
+<FOOD_1> <SPA> 海 口 市
+<FOOD_2> <SPA> 腐 竹 炖 肉
+<VEHICLE_0> <SPA> 明 天 <SPA> 海 口 市
+<FLIGHT_1> <SPA> B W 8 7 6 6
+<FLIGHT_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_1> <SPA> T G 2 3 6 1
+<FLIGHT_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 昆 明 航 空
+<FLIGHT_0> <SPA> 周 二 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<TRAIN_1> <SPA> C 4 0 1
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 八 号
+<MOVIE_0> <SPA> 素 媛
+<FLIGHT_0> <SPA> 中 秋 节 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<TRAIN_1> <SPA> K 2 6
+<TRAIN_1> <SPA> C 0 8 9 8
+<VEHICLE_0> <SPA> 两 天 以 后 <SPA> 海 口 市
+<TRANSLATE_0> <SPA> 掌 直 顺 <SPA> 西 班 牙 语
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 初 一
+<MOVIE_0> <SPA> 当 幸 福 来 敲 门
+<VEHICLE_0> <SPA> 十 五 <SPA> 沈 阳 市
+<PERSON_0> <SPA> 陈 思 诚
+<FLIGHT_0> <SPA> 劳 动 节 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_0> <SPA> <DATE_DEFAULT> <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 山 航
+<PERSON_0> <SPA> 刘 敏
+<FLIGHT_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_1> <SPA> Y L 8 1 7 8
+<FLIGHT_1> <SPA> Y U 9 1 8 9
+<FLIGHT_1> <SPA> Z Z 8 7 7 6
+<FLIGHT_1> <SPA> E T 3 9 3 3
+<VEHICLE_0> <SPA> 明 天 <SPA> 巴 中 市
+<PERSON_0> <SPA> 陈 思 诚
+<FLIGHT_1> <SPA> D E 3 7 8 9
+<FLIGHT_0> <SPA> 晚 上 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 厦 航
+<FLIGHT_0> <SPA> 下 午 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 川 航
+<TRAVEL_0> <SPA> 巴 中 市
+<FLIGHT_1> <SPA> J Z 8 2 7 8
+<MOVIE_0> <SPA> 当 幸 福 来 敲 门
+<WEATHER_1> <SPA> 海 口 市 <SPA> 初 一
+<FOOD_1> <SPA> 海 口 市
+<DICTIONARY_0> <SPA> 高 楼 大 厦
+<WEATHER_1> <SPA> 海 口 市 <SPA> 初 四
+<FLIGHT_1> <SPA> M B 5 2 5 8
+<FLIGHT_1> <SPA> X U 0 6 6 0
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 八 号
+<VEHICLE_0> <SPA> 十 五 <SPA> 临 汾 市
+<TRAVEL_1> <SPA> 波 茨 坦 广 场
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 白 天
+<TRANSLATE_0> <SPA> 类 尽 厚 简 投 流 相 男 夫 <SPA> 韩 语
+<TRAVEL_0> <SPA> 北 京 市
+<VEHICLE_0> <SPA> 下 周 <SPA> 沈 阳 市
+<VEHICLE_0> <SPA> 周 二 <SPA> 巴 中 市
+<FLIGHT_0> <SPA> 周 二 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_0> <SPA> 劳 动 节 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 海 航
+<VEHICLE_0> <SPA> 星 期 五 <SPA> 沈 阳 市
+<TRAIN_1> <SPA> L 2 5 9 6
+<FOOD_1> <SPA> 临 汾 市
+<FLIGHT_1> <SPA> Z K 1 8 3 1
+<WEATHER_0> <SPA> 沈 阳 市 <SPA> 白 天
+<FLIGHT_0> <SPA> 五 号 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 山 航
+<FLIGHT_0> <SPA> 下 周 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<FOOD_2> <SPA> 蒸 出 粒 粒 香 滑 鸡 翅
+<FOOD_0> <SPA> 柚 子
+<TRANSLATE_0> <SPA> 激 向 使 果 <SPA> 德 语
+<FLIGHT_0> <SPA> 下 周 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 西 部 航 空
+<VEHICLE_0> <SPA> 下 周 <SPA> 巴 中 市
+<WEATHER_1> <SPA> 沈 阳 市 <SPA> 明 天 下 午
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 八 号
+<FLIGHT_1> <SPA> O R 3 7 3 4
+<FLIGHT_1> <SPA> D E 3 7 8 9
+<TRAVEL_1> <SPA> 庄 园 大 花 园
+<TRAVEL_0> <SPA> 巴 中 市
+<TRAIN_1> <SPA> G 3 0 7
+<FOOD_1> <SPA> 沈 阳 市
+<VEHICLE_0> <SPA> 下 周 <SPA> 临 汾 市
+<WEATHER_1> <SPA> 沈 阳 市 <SPA> <DATE_DEFAULT>
+<TRAIN_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 高 铁
+<WEATHER_0> <SPA> 沈 阳 市 <SPA> 五 号
+<TRANSLATE_0> <SPA> 毕 待 克 又 丰 料 <SPA> 法 语
+<FLIGHT_1> <SPA> J V 7 2 3 8
+<TRAVEL_0> <SPA> 海 口 市
+<VEHICLE_0> <SPA> 星 期 日 <SPA> 沈 阳 市
+<FLIGHT_0> <SPA> 周 二 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_1> <SPA> N C 4 4 9 7
+<TRANSLATE_0> <SPA> 类 尽 厚 简 投 流 相 男 夫 <SPA> 俄 语
+<TRAIN_1> <SPA> K 8 7 1 1
+<PERSON_0> <SPA> 张 慧 雯
+<WEATHER_1> <SPA> 海 口 市 <SPA> 五 号
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 五 号
+<VEHICLE_0> <SPA> 初 七 <SPA> 临 汾 市
+<WEATHER_0> <SPA> 沈 阳 市 <SPA> 八 号
+<WEATHER_0> <SPA> 海 口 市 <SPA> 五 号
+<DICTIONARY_0> <SPA> 高 楼 大 厦
+<WEATHER_1> <SPA> 沈 阳 市 <SPA> 明 天 下 午
+<PERSON_0> <SPA> 杨 子 姗
+<VEHICLE_0> <SPA> 下 午 <SPA> 沈 阳 市
+<TRAIN_1> <SPA> G 0 8 3 5
+<TRAIN_1> <SPA> C 0 7 3 6
+<VEHICLE_0> <SPA> 明 天 白 天 <SPA> 海 口 市
+<DICTIONARY_0> <SPA> 江 山 如 画
+<FLIGHT_1> <SPA> T M 9 3 8 9
+<WEATHER_0> <SPA> <CITY_DEFAULT> <SPA> 下 周
+<FLIGHT_0> <SPA> 下 午 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<VEHICLE_0> <SPA> 明 天 <SPA> 巴 中 市
+<FLIGHT_0> <SPA> 下 午 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<FOOD_2> <SPA> 蒸 出 粒 粒 香 滑 鸡 翅
+<VEHICLE_0> <SPA> 初 七 <SPA> 巴 中 市
+<FLIGHT_0> <SPA> 月 末 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<TRAIN_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 火 车
+<TRAIN_0> <SPA> 明 天 下 午 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 快 车
+<VEHICLE_0> <SPA> 星 期 日 <SPA> 沈 阳 市
+<FLIGHT_1> <SPA> W Q 2 3 6 0
+<VEHICLE_0> <SPA> 星 期 日 <SPA> 巴 中 市
+<TRAIN_1> <SPA> C 1 7 7 2
+<TRANSLATE_0> <SPA> 睡 <SPA> 西 班 牙 语
+<TRANSLATE_0> <SPA> 睡 <SPA> 日 语
+<WEATHER_1> <SPA> 海 口 市 <SPA> 初 一
+<TRANSLATE_0> <SPA> 类 尽 厚 简 投 流 相 男 夫 <SPA> 英 语
+<VEHICLE_0> <SPA> 星 期 日 <SPA> 沈 阳 市
+<DICTIONARY_0> <SPA> 皆 大 欢 喜
+<FLIGHT_1> <SPA> O U 9 0 7 3
+<TRAIN_1> <SPA> K 9 3 7 1
+<VEHICLE_0> <SPA> 八 号 <SPA> 沈 阳 市
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 五 号
+<FLIGHT_0> <SPA> 五 号 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<TRANSLATE_0> <SPA> 激 向 使 果 <SPA> 韩 语
+<FLIGHT_1> <SPA> Y X 0 3 1 8
+<FLIGHT_0> <SPA> 下 周 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<TRAIN_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 快 车
+<FLIGHT_1> <SPA> C F 0 1 0 1
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 明 天 下 午
+<FLIGHT_1> <SPA> E T 3 9 3 3
+<FLIGHT_1> <SPA> Y X 0 3 1 8
+<FLIGHT_0> <SPA> 九 号 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 山 航
+<WEATHER_0> <SPA> 海 口 市 <SPA> 初 一
+<FLIGHT_0> <SPA> 下 周 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<DICTIONARY_0> <SPA> 苦 心 孤 诣
+<TRAIN_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 快 车
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 初 一
+<TRAIN_1> <SPA> Z 2 4 5 9
+<FLIGHT_1> <SPA> N C 4 4 9 7
+<FLIGHT_1> <SPA> O P 8 9 3 4
+<FLIGHT_0> <SPA> 下 周 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 国 航
+<FLIGHT_0> <SPA> 下 周 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 西 部 航 空
+<FLIGHT_0> <SPA> 劳 动 节 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 国 航
+<WEATHER_0> <SPA> <CITY_DEFAULT> <SPA> 明 晚
+<VEHICLE_0> <SPA> 下 午 <SPA> 巴 中 市
+<FLIGHT_0> <SPA> 周 六 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 初 一
+<FLIGHT_0> <SPA> 月 末 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 国 航
+<FLIGHT_0> <SPA> 晚 上 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_0> <SPA> 晚 上 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<DICTIONARY_0> <SPA> 花 容 月 貌
+<FLIGHT_0> <SPA> 周 六 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 海 航
+<TRANSLATE_0> <SPA> 毕 待 克 又 丰 料 <SPA> 汉 语
+<WEATHER_0> <SPA> 海 口 市 <SPA> 八 号
+<TRAIN_1> <SPA> K 2 1 4
+<VEHICLE_0> <SPA> 十 五 <SPA> 巴 中 市
+<TRAIN_1> <SPA> C 3 1 9 3
+<PERSON_0> <SPA> 蒋 雪 儿
+<FOOD_2> <SPA> 青 椒 酿 肉
+<FLIGHT_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<TRANSLATE_0> <SPA> 激 向 使 果 <SPA> 韩 语
+<WEATHER_1> <SPA> 临 汾 市 <SPA> <DATE_DEFAULT>
+<FLIGHT_0> <SPA> 五 号 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<TRAIN_1> <SPA> Z 5 3
+<TRANSLATE_0> <SPA> 睡 <SPA> 法 语
+<FLIGHT_1> <SPA> E T 3 9 3 3
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 八 号
+<FLIGHT_0> <SPA> 周 二 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_1> <SPA> O R 3 7 3 4
+<VEHICLE_0> <SPA> 星 期 五 <SPA> 海 口 市
+<FOOD_2> <SPA> 脆 底 煎 饺
+<FLIGHT_1> <SPA> X R 3 9 5 4
+<FLIGHT_0> <SPA> 下 周 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_1> <SPA> G N 5 9 6 0
+<TRAIN_1> <SPA> G 7 8 9 1
+<WEATHER_0> <SPA> 海 口 市 <SPA> 明 天 下 午
+<FLIGHT_0> <SPA> 五 号 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 南 航
+<FLIGHT_0> <SPA> 下 周 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_0> <SPA> 晚 上 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 昆 明 航 空
+<TRAIN_1> <SPA> Z 2 4 5 9
+<VEHICLE_0> <SPA> 星 期 五 <SPA> 沈 阳 市
+<WEATHER_0> <SPA> <CITY_DEFAULT> <SPA> 初 八
+<WEATHER_1> <SPA> 沈 阳 市 <SPA> 初 四
+<PERSON_0> <SPA> 车 晓
+<WEATHER_1> <SPA> <CITY_DEFAULT> <SPA> 下 周
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 五 号
+<TRANSLATE_0> <SPA> 类 尽 厚 简 投 流 相 男 夫 <SPA> 英 语
+<TRANSLATE_0> <SPA> 激 向 使 果 <SPA> 汉 语
+<DICTIONARY_0> <SPA> 无 可 厚 非
+<TRANSLATE_0> <SPA> 掌 直 顺 <SPA> 韩 语
+<VEHICLE_0> <SPA> 周 二 <SPA> 沈 阳 市
+<TRAIN_1> <SPA> Z 5 7 0
+<VEHICLE_0> <SPA> 今 晚 <SPA> 沈 阳 市
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 白 天
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 明 天 下 午
+<TRANSLATE_0> <SPA> 激 向 使 果 <SPA> 法 语
+<VEHICLE_0> <SPA> 两 天 以 后 <SPA> 临 汾 市
+<FOOD_2> <SPA> 蒸 出 粒 粒 香 滑 鸡 翅
+<TRAVEL_0> <SPA> 临 汾 市
+<VEHICLE_0> <SPA> 五 号 <SPA> 沈 阳 市
+<FLIGHT_0> <SPA> 下 周 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 山 航
+<MOVIE_0> <SPA> 素 媛
+<TRAIN_1> <SPA> L 1 1 1 3
+<VEHICLE_0> <SPA> 星 期 日 <SPA> 临 汾 市
+<FLIGHT_0> <SPA> 晚 上 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_0> <SPA> 周 二 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 海 航
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 明 天 下 午
+<DICTIONARY_0> <SPA> 苦 心 孤 诣
+<VEHICLE_0> <SPA> 初 七 <SPA> 巴 中 市
+<WEATHER_1> <SPA> <CITY_DEFAULT> <SPA> 白 天
+<FLIGHT_1> <SPA> N Z 1 1 3 1
+<FLIGHT_0> <SPA> 九 号 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<TRANSLATE_0> <SPA> 类 尽 厚 简 投 流 相 男 夫 <SPA> 德 语
+<WEATHER_1> <SPA> 海 口 市 <SPA> 初 一
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 白 天
+<VEHICLE_0> <SPA> 八 号 <SPA> 临 汾 市
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 明 天 下 午
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 初 四
+<FLIGHT_0> <SPA> 周 二 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 昆 明 航 空
+<TRAIN_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 火 车
+<FLIGHT_1> <SPA> Y C 8 2 1 9
+<TRAIN_1> <SPA> T 4 3 9
+<TRANSLATE_0> <SPA> 毕 待 克 又 丰 料 <SPA> 韩 语
+<FLIGHT_0> <SPA> 五 号 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 昆 明 航 空
+<TRANSLATE_0> <SPA> 情 几 穿 心 赛 死 候 足 <SPA> 汉 语
+<TRAIN_1> <SPA> Z 4 3 5
+<DICTIONARY_0> <SPA> 无 可 厚 非
+<PERSON_0> <SPA> 白 举 纲
+<MOVIE_0> <SPA> 猩 球 崛 起
+<FOOD_0> <SPA> 香 瓜
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 初 一
+<TRAIN_1> <SPA> Z 8 3
+<WEATHER_1> <SPA> 海 口 市 <SPA> 初 一
+<WEATHER_0> <SPA> 沈 阳 市 <SPA> 初 四
+<PERSON_0> <SPA> 杨 子 姗
+<TRANSLATE_0> <SPA> 激 向 使 果 <SPA> 西 班 牙 语
+<VEHICLE_0> <SPA> 周 二 <SPA> 海 口 市
+<FLIGHT_1> <SPA> G N 5 9 6 0
+<PERSON_0> <SPA> 蒋 雪 儿
+<FLIGHT_1> <SPA> T M 9 3 8 9
+<FLIGHT_0> <SPA> 周 二 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_0> <SPA> 下 周 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_0> <SPA> 劳 动 节 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_0> <SPA> 周 二 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 成 都 航 空
+<WEATHER_1> <SPA> 沈 阳 市 <SPA> 白 天
+<VEHICLE_0> <SPA> 元 宵 节 <SPA> 临 汾 市
+<TRAIN_1> <SPA> C 8 7 0 0
+<TRAIN_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 快 车
+<WEATHER_0> <SPA> 海 口 市 <SPA> 白 天
+<WEATHER_0> <SPA> 沈 阳 市 <SPA> 初 一
+<FLIGHT_1> <SPA> W F 3 7 3 0
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 初 四
+<FLIGHT_0> <SPA> 劳 动 节 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 山 航
+<TRAVEL_1> <SPA> 四 方 街
+<TRAIN_1> <SPA> Z 3 3 9 0
+<WEATHER_0> <SPA> 海 口 市 <SPA> 五 号
+<TRAIN_1> <SPA> Z 8 1 4 1
+<FLIGHT_0> <SPA> 五 号 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<TRANSLATE_0> <SPA> 毕 待 克 又 丰 料 <SPA> 汉 语
+<MOVIE_0> <SPA> 猩 球 崛 起
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 白 天
+<TRAIN_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 快 车
+<TRAIN_1> <SPA> K 2 1 8 7
+<TRAIN_0> <SPA> 白 天 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 高 铁
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 初 一
+<TRAIN_1> <SPA> L 9 6 6 4
+<FLIGHT_0> <SPA> 劳 动 节 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 西 部 航 空
+<TRAIN_1> <SPA> L 9 6 6 4
+<VEHICLE_0> <SPA> 今 晚 <SPA> 临 汾 市
+<FLIGHT_1> <SPA> G N 5 9 6 0
+<FLIGHT_1> <SPA> T G 2 3 6 1
+<TRAIN_1> <SPA> Z 2 8 0
+<FLIGHT_0> <SPA> 月 末 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 国 航
+<FLIGHT_0> <SPA> 晚 上 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 西 部 航 空
+<TRAIN_1> <SPA> C 1 7 7 2
+<WEATHER_1> <SPA> 沈 阳 市 <SPA> <DATE_DEFAULT>
+<FOOD_0> <SPA> 柚 子
+<FLIGHT_0> <SPA> 九 号 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<TRAIN_0> <SPA> <DATE_DEFAULT> <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 快 车
+<FLIGHT_1> <SPA> B W 8 7 6 6
+<TRAIN_1> <SPA> Z 2 4 5 9
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 初 四
+<VEHICLE_0> <SPA> 初 七 <SPA> 巴 中 市
+<VEHICLE_0> <SPA> 周 二 <SPA> 临 汾 市
+<FOOD_1> <SPA> 巴 中 市
+<DICTIONARY_0> <SPA> 花 容 月 貌
+<WEATHER_0> <SPA> 沈 阳 市 <SPA> 明 天 下 午
+<DICTIONARY_0> <SPA> 高 楼 大 厦
+<PERSON_0> <SPA> 陈 数
+<WEATHER_1> <SPA> 海 口 市 <SPA> 八 号
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 八 号
+<FLIGHT_1> <SPA> N C 3 5 8 8
+<TRAIN_1> <SPA> D 5 1 0
+<VEHICLE_0> <SPA> 初 七 <SPA> 巴 中 市
+<VEHICLE_0> <SPA> 五 号 <SPA> 临 汾 市
+<DICTIONARY_0> <SPA> 花 容 月 貌
+<VEHICLE_0> <SPA> 下 午 <SPA> 临 汾 市
+<TRANSLATE_0> <SPA> 激 向 使 果 <SPA> 韩 语
+<WEATHER_0> <SPA> 沈 阳 市 <SPA> 初 四
+<TRAIN_1> <SPA> L 5 2 0
+<TRAVEL_0> <SPA> 海 口 市
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 八 号
+<FLIGHT_0> <SPA> 晚 上 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 华 夏 航 空
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 初 四
+<TRANSLATE_0> <SPA> 类 尽 厚 简 投 流 相 男 夫 <SPA> 俄 语
+<FLIGHT_1> <SPA> J V 7 2 3 8
+<VEHICLE_0> <SPA> 星 期 日 <SPA> 巴 中 市
+<VEHICLE_0> <SPA> 八 号 <SPA> 临 汾 市
+<TRAIN_1> <SPA> G 1 2 3
+<FLIGHT_1> <SPA> J Z 8 2 7 8
+<FLIGHT_1> <SPA> E R 8 3 0 1
+<WEATHER_0> <SPA> 海 口 市 <SPA> 初 一
+<FLIGHT_1> <SPA> D C 6 3 4 8
+<FLIGHT_0> <SPA> 月 末 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 厦 航
+<WEATHER_0> <SPA> 海 口 市 <SPA> 五 号
+<WEATHER_0> <SPA> 沈 阳 市 <SPA> 五 号
+<FOOD_2> <SPA> 辣 白 菜 五 花 肉
+<WEATHER_1> <SPA> 海 口 市 <SPA> 八 号
+<FOOD_2> <SPA> 蒸 出 粒 粒 香 滑 鸡 翅
+<TRAIN_0> <SPA> 九 号 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 动 车
+<FLIGHT_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 华 夏 航 空
+<WEATHER_0> <SPA> 沈 阳 市 <SPA> 五 号
+<FOOD_0> <SPA> 樱 桃
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 明 天 下 午
+<TRAIN_1> <SPA> Z 5 6 7
+<FLIGHT_1> <SPA> Z L 2 0 3 1
+<FLIGHT_0> <SPA> 下 午 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<TRANSLATE_0> <SPA> 激 向 使 果 <SPA> 德 语
+<MOVIE_0> <SPA> 当 幸 福 来 敲 门
+<TRANSLATE_0> <SPA> 掌 直 顺 <SPA> 法 语
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 初 四
+<FOOD_2> <SPA> 青 椒 酿 肉
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 初 一
+<FLIGHT_0> <SPA> 晚 上 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 海 航
+<TRAIN_1> <SPA> G 4 5 7
+<FLIGHT_0> <SPA> 五 号 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 山 航
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 明 天 下 午
+<FLIGHT_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 华 夏 航 空
+<WEATHER_1> <SPA> 沈 阳 市 <SPA> 初 一
+<FLIGHT_1> <SPA> N C 3 5 8 8
+<TRAIN_1> <SPA> G 3 0 7
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 八 号
+<TRAIN_1> <SPA> T 8 7 8 5
+<TRAIN_1> <SPA> G 1 5 6
+<VEHICLE_0> <SPA> 十 五 <SPA> 巴 中 市
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 初 一
+<TRAIN_1> <SPA> T 8 3 4 8
+<VEHICLE_0> <SPA> 星 期 日 <SPA> 临 汾 市
+<TRAIN_1> <SPA> L 2 3 8
+<TRAVEL_0> <SPA> 沈 阳 市
+<FLIGHT_0> <SPA> 周 二 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 川 航
+<TRAVEL_0> <SPA> 临 汾 市
+<TRAIN_0> <SPA> 下 周 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 火 车
+<FLIGHT_0> <SPA> 月 末 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 华 夏 航 空
+<TRANSLATE_0> <SPA> 情 几 穿 心 赛 死 候 足 <SPA> 西 班 牙 语
+<WEATHER_0> <SPA> 海 口 市 <SPA> 明 天 下 午
+<FLIGHT_0> <SPA> 月 末 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 初 四
+<FLIGHT_0> <SPA> 中 秋 节 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 川 航
+<TRANSLATE_0> <SPA> 毕 待 克 又 丰 料 <SPA> 俄 语
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 初 一
+<FLIGHT_0> <SPA> 月 末 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 西 部 航 空
+<VEHICLE_0> <SPA> 周 二 <SPA> 巴 中 市
+<WEATHER_1> <SPA> 海 口 市 <SPA> 明 天 下 午
+<FLIGHT_0> <SPA> 周 二 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<VEHICLE_0> <SPA> 明 天 白 天 <SPA> 临 汾 市
+<TRAVEL_1> <SPA> 庄 园 大 花 园
+<DICTIONARY_0> <SPA> 助 人 为 乐
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 八 号
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 八 号
+<VEHICLE_0> <SPA> 下 午 <SPA> 海 口 市
+<FLIGHT_0> <SPA> 月 末 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<TRAIN_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 高 铁
+<TRAIN_0> <SPA> 元 宵 节 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 高 铁
+<PERSON_0> <SPA> 陈 思 诚
+<VEHICLE_0> <SPA> 元 宵 节 <SPA> 巴 中 市
+<DICTIONARY_0> <SPA> 高 楼 大 厦
+<FLIGHT_0> <SPA> 下 午 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<VEHICLE_0> <SPA> 周 二 <SPA> 临 汾 市
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 白 天
+<VEHICLE_0> <SPA> 八 号 <SPA> 巴 中 市
+<VEHICLE_0> <SPA> 两 天 以 后 <SPA> 沈 阳 市
+<TRAIN_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 动 车
+<VEHICLE_0> <SPA> 两 天 以 后 <SPA> 临 汾 市
+<TRAIN_1> <SPA> Z 2 3 3
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 八 号
+<VEHICLE_0> <SPA> 明 天 <SPA> 巴 中 市
+<PERSON_0> <SPA> 陈 思 诚
+<TRANSLATE_0> <SPA> 类 尽 厚 简 投 流 相 男 夫 <SPA> 西 班 牙 语
+<TRANSLATE_0> <SPA> 掌 直 顺 <SPA> 俄 语
+<TRAIN_1> <SPA> L 2 8 8
+<TRAVEL_1> <SPA> 波 茨 坦 广 场
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 五 号
+<FLIGHT_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 川 航
+<FLIGHT_1> <SPA> T P 5 9 7 9
+<FLIGHT_0> <SPA> 劳 动 节 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_0> <SPA> 五 号 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<WEATHER_0> <SPA> 巴 中 市 <SPA> <DATE_DEFAULT>
+<TRAIN_1> <SPA> L 3 3 0
+<FLIGHT_1> <SPA> J W 1 6 8 2
+<TRAIN_0> <SPA> <DATE_DEFAULT> <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 快 车
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 白 天
+<FLIGHT_0> <SPA> 晚 上 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<TRAIN_1> <SPA> C 8 8 4 9
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 初 四
+<VEHICLE_0> <SPA> 两 天 以 后 <SPA> 海 口 市
+<TRANSLATE_0> <SPA> 掌 直 顺 <SPA> 韩 语
+<VEHICLE_0> <SPA> 星 期 日 <SPA> 海 口 市
+<FLIGHT_1> <SPA> E T 3 9 3 3
+<TRAIN_1> <SPA> K 2 1 8 7
+<TRANSLATE_0> <SPA> 类 尽 厚 简 投 流 相 男 夫 <SPA> 俄 语
+<FLIGHT_1> <SPA> I B 2 8 4 7
+<FLIGHT_0> <SPA> 九 号 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 初 一
+<FLIGHT_0> <SPA> 周 六 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 厦 航
+<FLIGHT_0> <SPA> 下 午 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<WEATHER_0> <SPA> 海 口 市 <SPA> 五 号
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 八 号
+<TRAIN_1> <SPA> G 8 1 7 8
+<VEHICLE_0> <SPA> 星 期 日 <SPA> 巴 中 市
+<VEHICLE_0> <SPA> 周 二 <SPA> 临 汾 市
+<VEHICLE_0> <SPA> 周 二 <SPA> 巴 中 市
+<FLIGHT_0> <SPA> 九 号 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 昆 明 航 空
+<WEATHER_1> <SPA> 海 口 市 <SPA> <DATE_DEFAULT>
+<WEATHER_0> <SPA> 海 口 市 <SPA> 八 号
+<TRAVEL_1> <SPA> 庄 园 大 花 园
+<FOOD_2> <SPA> 辣 白 菜 五 花 肉
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 明 天 下 午
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 明 天 下 午
+<TRAIN_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 快 车
+<PERSON_0> <SPA> 李 健
+<VEHICLE_0> <SPA> 星 期 日 <SPA> 海 口 市
+<TRANSLATE_0> <SPA> 毕 待 克 又 丰 料 <SPA> 韩 语
+<FLIGHT_1> <SPA> Y C 8 2 1 9
+<FLIGHT_1> <SPA> V O 6 7 4 6
+<TRAIN_1> <SPA> Z 5 6 7
+<VEHICLE_0> <SPA> 十 五 <SPA> 沈 阳 市
+<WEATHER_0> <SPA> 海 口 市 <SPA> 八 号
+<TRAVEL_0> <SPA> 沈 阳 市
+<FOOD_2> <SPA> 脆 底 煎 饺
+<VEHICLE_0> <SPA> 星 期 五 <SPA> 巴 中 市
+<FOOD_2> <SPA> 玉 米 炒 肉 末
+<FOOD_0> <SPA> 香 瓜
+<TRAIN_1> <SPA> G 1 3
+<VEHICLE_0> <SPA> 星 期 日 <SPA> 沈 阳 市
+<FLIGHT_0> <SPA> 五 号 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<WEATHER_1> <SPA> 沈 阳 市 <SPA> 五 号
+<PERSON_0> <SPA> 车 晓
+<FLIGHT_0> <SPA> 周 六 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_0> <SPA> <DATE_DEFAULT> <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 华 夏 航 空
+<VEHICLE_0> <SPA> 元 宵 节 <SPA> 临 汾 市
+<TRAIN_1> <SPA> D 1 6 5
+<FLIGHT_0> <SPA> 五 号 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<TRAIN_0> <SPA> 初 一 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 火 车
+<VEHICLE_0> <SPA> 五 号 <SPA> 巴 中 市
+<PERSON_0> <SPA> 李 健
+<TRAIN_1> <SPA> G 5 3 3 2
+<WEATHER_1> <SPA> 海 口 市 <SPA> 五 号
+<VEHICLE_0> <SPA> 明 天 <SPA> 沈 阳 市
+<TRAIN_1> <SPA> K 2 1 4
+<TRAIN_1> <SPA> L 2 8 8
+<FLIGHT_1> <SPA> N Z 1 1 3 1
+<FLIGHT_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_1> <SPA> X R 3 9 5 4
+<TRAVEL_0> <SPA> 巴 中 市
+<VEHICLE_0> <SPA> 周 二 <SPA> 沈 阳 市
+<TRANSLATE_0> <SPA> 睡 <SPA> 西 班 牙 语
+<WEATHER_1> <SPA> 沈 阳 市 <SPA> 白 天
+<TRAIN_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 动 车
+<FOOD_2> <SPA> 辣 白 菜 五 花 肉
+<TRANSLATE_0> <SPA> 毕 待 克 又 丰 料 <SPA> 德 语
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 八 号
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 白 天
+<VEHICLE_0> <SPA> 十 五 <SPA> 巴 中 市
+<TRAVEL_0> <SPA> 巴 中 市
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 明 天 下 午
+<FLIGHT_0> <SPA> 周 二 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 山 航
+<TRAVEL_1> <SPA> 荷 兰 风 车 博 物 馆
+<FLIGHT_0> <SPA> 下 午 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<FOOD_0> <SPA> 柚 子
+<TRAVEL_1> <SPA> 波 茨 坦 广 场
+<TRANSLATE_0> <SPA> 睡 <SPA> 德 语
+<TRAIN_1> <SPA> C 4 0 1
+<FLIGHT_1> <SPA> C F 0 1 0 1
+<VEHICLE_0> <SPA> 今 晚 <SPA> 临 汾 市
+<TRAIN_1> <SPA> D 4 3 3
+<WEATHER_1> <SPA> 海 口 市 <SPA> <DATE_DEFAULT>
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 五 号
+<TRAIN_1> <SPA> L 3 1 5 0
+<FOOD_2> <SPA> 辣 白 菜 五 花 肉
+<TRANSLATE_0> <SPA> 激 向 使 果 <SPA> 汉 语
+<TRAVEL_0> <SPA> 北 京 市
+<TRANSLATE_0> <SPA> 掌 直 顺 <SPA> 日 语
+<FLIGHT_0> <SPA> 九 号 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<TRAIN_1> <SPA> L 3 6 8
+<TRAVEL_1> <SPA> 荷 兰 风 车 博 物 馆
+<TRAVEL_1> <SPA> 四 方 街
+<TRAIN_1> <SPA> Z 4 4 1
+<TRAVEL_0> <SPA> 巴 中 市
+<VEHICLE_0> <SPA> 下 周 <SPA> 沈 阳 市
+<TRANSLATE_0> <SPA> 情 几 穿 心 赛 死 候 足 <SPA> 俄 语
+<FLIGHT_0> <SPA> 五 号 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 海 航
+<TRAIN_1> <SPA> C 3 9 7
+<FLIGHT_0> <SPA> 下 午 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 西 部 航 空
+<TRANSLATE_0> <SPA> 睡 <SPA> 德 语
+<FLIGHT_1> <SPA> P I 0 4 6 8
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 五 号
+<TRAIN_1> <SPA> Z 8 1 4 1
+<TRAVEL_0> <SPA> 巴 中 市
+<FLIGHT_1> <SPA> J M 0 8 4 0
+<FLIGHT_0> <SPA> 周 二 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<TRANSLATE_0> <SPA> 掌 直 顺 <SPA> 俄 语
+<DICTIONARY_0> <SPA> 苦 心 孤 诣
+<TRANSLATE_0> <SPA> 睡 <SPA> 英 语
+<FLIGHT_1> <SPA> Z L 2 0 3 1
+<DICTIONARY_0> <SPA> 无 可 厚 非
+<TRAIN_1> <SPA> D 5 1 0
+<WEATHER_1> <SPA> <CITY_DEFAULT> <SPA> 初 一
+<FLIGHT_1> <SPA> W F 3 7 3 0
+<TRAVEL_0> <SPA> 临 汾 市
+<TRAVEL_1> <SPA> 四 方 街
+<TRAIN_1> <SPA> L 2 5 9 6
+<TRAIN_1> <SPA> K 2 6
+<WEATHER_1> <SPA> 海 口 市 <SPA> 初 四
+<VEHICLE_0> <SPA> 下 午 <SPA> 海 口 市
+<TRAIN_1> <SPA> G 0 8 3 5
+<WEATHER_0> <SPA> 海 口 市 <SPA> 八 号
+<TRAIN_1> <SPA> C 4 7
+<TRAIN_1> <SPA> Z 2 8 0
+<DICTIONARY_0> <SPA> 皆 大 欢 喜
+<TRAVEL_1> <SPA> 庄 园 大 花 园
+<DICTIONARY_0> <SPA> 江 山 如 画
+<VEHICLE_0> <SPA> 初 七 <SPA> 沈 阳 市
+<FLIGHT_1> <SPA> N Z 1 1 3 1
+<FLIGHT_0> <SPA> 周 二 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<TRANSLATE_0> <SPA> 激 向 使 果 <SPA> 西 班 牙 语
+<TRAIN_0> <SPA> <DATE_DEFAULT> <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 动 车
+<TRAIN_1> <SPA> C 4 7
+<WEATHER_0> <SPA> 海 口 市 <SPA> 白 天
+<VEHICLE_0> <SPA> 明 天 <SPA> 沈 阳 市
+<VEHICLE_0> <SPA> 周 二 <SPA> 海 口 市
+<TRANSLATE_0> <SPA> 睡 <SPA> 俄 语
+<FLIGHT_0> <SPA> 周 六 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<WEATHER_1> <SPA> 海 口 市 <SPA> 初 四
+<FLIGHT_0> <SPA> 下 周 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 华 夏 航 空
+<WEATHER_0> <SPA> 沈 阳 市 <SPA> 初 一
+<TRANSLATE_0> <SPA> 睡 <SPA> 英 语
+<FLIGHT_0> <SPA> 下 周 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 川 航
+<TRANSLATE_0> <SPA> 情 几 穿 心 赛 死 候 足 <SPA> 法 语
+<TRAVEL_0> <SPA> 临 汾 市
+<PERSON_0> <SPA> 包 贝 尔
+<FLIGHT_0> <SPA> 劳 动 节 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<VEHICLE_0> <SPA> 今 晚 <SPA> 临 汾 市
+<FOOD_1> <SPA> 海 口 市
+<FLIGHT_1> <SPA> E T 3 9 3 3
+<DICTIONARY_0> <SPA> 江 山 如 画
+<VEHICLE_0> <SPA> 五 号 <SPA> 巴 中 市
+<TRANSLATE_0> <SPA> 激 向 使 果 <SPA> 法 语
+<MOVIE_0> <SPA> 当 幸 福 来 敲 门
+<WEATHER_0> <SPA> 海 口 市 <SPA> 初 一
+<WEATHER_0> <SPA> 海 口 市 <SPA> 初 四
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 白 天
+<VEHICLE_0> <SPA> 星 期 日 <SPA> 临 汾 市
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 初 四
+<VEHICLE_0> <SPA> 周 二 <SPA> 沈 阳 市
+<FOOD_0> <SPA> 柚 子
+<TRAIN_1> <SPA> Z 2 8 0
+<TRAIN_1> <SPA> K 2 0 1
+<FLIGHT_0> <SPA> 下 周 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 国 航
+<PERSON_0> <SPA> 李 健
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 八 号
+<WEATHER_1> <SPA> 沈 阳 市 <SPA> 初 一
+<FLIGHT_0> <SPA> 劳 动 节 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_0> <SPA> 周 二 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 海 航
+<VEHICLE_0> <SPA> 两 天 以 后 <SPA> 巴 中 市
+<TRAIN_1> <SPA> C 6 9 4 2
+<TRANSLATE_0> <SPA> 睡 <SPA> 韩 语
+<TRANSLATE_0> <SPA> 类 尽 厚 简 投 流 相 男 夫 <SPA> 法 语
+<WEATHER_0> <SPA> 海 口 市 <SPA> 八 号
+<FLIGHT_0> <SPA> 中 秋 节 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<DICTIONARY_0> <SPA> 无 可 厚 非
+<MOVIE_0> <SPA> 当 幸 福 来 敲 门
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 八 号
+<VEHICLE_0> <SPA> 今 晚 <SPA> 海 口 市
+<TRANSLATE_0> <SPA> 情 几 穿 心 赛 死 候 足 <SPA> 法 语
+<VEHICLE_0> <SPA> 星 期 五 <SPA> 临 汾 市
+<TRAIN_1> <SPA> Z 5 6 7
+<VEHICLE_0> <SPA> 元 宵 节 <SPA> 临 汾 市
+<TRANSLATE_0> <SPA> 掌 直 顺 <SPA> 英 语
+<VEHICLE_0> <SPA> 下 周 <SPA> 沈 阳 市
+<WEATHER_1> <SPA> 沈 阳 市 <SPA> 初 一
+<WEATHER_1> <SPA> 海 口 市 <SPA> 明 天 下 午
+<FOOD_1> <SPA> 海 口 市
+<FLIGHT_1> <SPA> M B 5 2 5 8
+<TRAIN_1> <SPA> C 0 8 9 8
+<TRANSLATE_0> <SPA> 毕 待 克 又 丰 料 <SPA> 法 语
+<FLIGHT_1> <SPA> T Q 1 4 5 9
+<FOOD_2> <SPA> 红 薯 丸 子
+<VEHICLE_0> <SPA> 下 午 <SPA> 临 汾 市
+<TRAIN_1> <SPA> Z 3 3 9 0
+<VEHICLE_0> <SPA> 明 天 白 天 <SPA> 海 口 市
+<WEATHER_0> <SPA> 海 口 市 <SPA> 明 天 下 午
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 初 四
+<VEHICLE_0> <SPA> 十 五 <SPA> 临 汾 市
+<VEHICLE_0> <SPA> 五 号 <SPA> 沈 阳 市
+<TRANSLATE_0> <SPA> 类 尽 厚 简 投 流 相 男 夫 <SPA> 德 语
+<VEHICLE_0> <SPA> 周 二 <SPA> 临 汾 市
+<WEATHER_1> <SPA> 沈 阳 市 <SPA> 初 一
+<FLIGHT_0> <SPA> 周 二 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 海 航
+<FLIGHT_1> <SPA> P I 0 4 6 8
+<FLIGHT_0> <SPA> <DATE_DEFAULT> <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 成 都 航 空
+<VEHICLE_0> <SPA> 星 期 日 <SPA> 海 口 市
+<WEATHER_1> <SPA> 海 口 市 <SPA> 明 天 下 午
+<WEATHER_0> <SPA> 沈 阳 市 <SPA> 初 一
+<FLIGHT_0> <SPA> <DATE_DEFAULT> <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 南 航
+<FLIGHT_0> <SPA> 周 六 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 厦 航
+<FLIGHT_0> <SPA> 五 号 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 昆 明 航 空
+<TRAIN_1> <SPA> Z 5 3
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 初 一
+<FOOD_1> <SPA> 巴 中 市
+<TRAVEL_0> <SPA> 沈 阳 市
+<WEATHER_1> <SPA> 沈 阳 市 <SPA> 白 天
+<TRANSLATE_0> <SPA> 激 向 使 果 <SPA> 韩 语
+<TRAIN_1> <SPA> G 1 3
+<TRAIN_1> <SPA> L 3 3 0
+<TRAIN_1> <SPA> D 0 3 2 8
+<VEHICLE_0> <SPA> 今 晚 <SPA> 海 口 市
+<WEATHER_1> <SPA> 海 口 市 <SPA> 白 天
+<VEHICLE_0> <SPA> 星 期 日 <SPA> 巴 中 市
+<TRAVEL_0> <SPA> 北 京 市
+<PERSON_0> <SPA> 张 慧 雯
+<TRAIN_1> <SPA> G 1 3
+<TRAIN_1> <SPA> Z 1 5 0 8
+<FLIGHT_1> <SPA> O P 8 9 3 4
+<TRANSLATE_0> <SPA> 情 几 穿 心 赛 死 候 足 <SPA> 俄 语
+<VEHICLE_0> <SPA> 星 期 五 <SPA> 沈 阳 市
+<FLIGHT_0> <SPA> 劳 动 节 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 南 航
+<FLIGHT_1> <SPA> V U 8 0 6 4
+<WEATHER_1> <SPA> 沈 阳 市 <SPA> 白 天
+<FLIGHT_0> <SPA> 晚 上 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 山 航
+<TRANSLATE_0> <SPA> 情 几 穿 心 赛 死 候 足 <SPA> 日 语
+<FLIGHT_1> <SPA> Y L 2 8 6 3
+<FLIGHT_1> <SPA> Z A 5 0 3 1
+<FLIGHT_0> <SPA> <DATE_DEFAULT> <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 南 航
+<TRAIN_1> <SPA> C 4 0 1
+<FLIGHT_0> <SPA> 月 末 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 南 航
+<FOOD_2> <SPA> 玉 米 炒 肉 末
+<WEATHER_0> <SPA> 海 口 市 <SPA> 初 四
+<TRAIN_1> <SPA> Z 3 3 9 0
+<TRANSLATE_0> <SPA> 类 尽 厚 简 投 流 相 男 夫 <SPA> 英 语
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 明 天 下 午
+<FOOD_2> <SPA> 青 椒 酿 肉
+<TRAIN_1> <SPA> L 2 7 1
+<FOOD_2> <SPA> 脆 底 煎 饺
+<MOVIE_0> <SPA> 寻 梦 环 游 记
+<FLIGHT_0> <SPA> 晚 上 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<WEATHER_1> <SPA> 海 口 市 <SPA> 白 天
+<FOOD_2> <SPA> 青 椒 酿 肉
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 八 号
+<VEHICLE_0> <SPA> 两 天 以 后 <SPA> 巴 中 市
+<FOOD_2> <SPA> 辣 白 菜 五 花 肉
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 初 一
+<WEATHER_1> <SPA> 海 口 市 <SPA> 初 一
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 八 号
+<FLIGHT_0> <SPA> <DATE_DEFAULT> <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<TRAIN_1> <SPA> Z 2 7 6
+<TRAVEL_0> <SPA> 临 汾 市
+<WEATHER_0> <SPA> 海 口 市 <SPA> 八 号
+<DICTIONARY_0> <SPA> 人 情 世 故
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 八 号
+<WEATHER_0> <SPA> 沈 阳 市 <SPA> 五 号
+<FLIGHT_1> <SPA> C C 0 3 9 5
+<FLIGHT_1> <SPA> Z K 1 8 3 1
+<WEATHER_0> <SPA> 沈 阳 市 <SPA> 白 天
+<FLIGHT_0> <SPA> 九 号 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<MOVIE_0> <SPA> 当 幸 福 来 敲 门
+<FLIGHT_0> <SPA> 中 秋 节 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 厦 航
+<FLIGHT_0> <SPA> 中 秋 节 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<TRAIN_1> <SPA> C 2 3 7
+<TRAIN_1> <SPA> L 3 6 8
+<TRAIN_1> <SPA> Z 8 3
+<FLIGHT_0> <SPA> 下 午 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 国 航
+<FLIGHT_0> <SPA> 九 号 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 昆 明 航 空
+<TRANSLATE_0> <SPA> 激 向 使 果 <SPA> 德 语
+<FLIGHT_1> <SPA> Z T 9 3 8 8
+<FOOD_0> <SPA> 樱 桃
+<WEATHER_0> <SPA> 沈 阳 市 <SPA> 初 四
+<TRAIN_1> <SPA> C 8 9 8 0
+<FLIGHT_0> <SPA> 中 秋 节 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<VEHICLE_0> <SPA> 下 午 <SPA> 巴 中 市
+<FLIGHT_0> <SPA> 九 号 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 华 夏 航 空
+<FLIGHT_1> <SPA> C K 6 8 4 3
+<TRANSLATE_0> <SPA> 激 向 使 果 <SPA> 英 语
+<PERSON_0> <SPA> 张 慧 雯
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 初 四
+<WEATHER_1> <SPA> 沈 阳 市 <SPA> 初 四
+<PERSON_0> <SPA> 陈 数
+<TRAIN_1> <SPA> G 5 3 3 2
+<WEATHER_1> <SPA> <CITY_DEFAULT> <SPA> 初 八
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 初 一
+<DICTIONARY_0> <SPA> 柳 暗 花 明
+<FLIGHT_0> <SPA> 劳 动 节 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 国 航
+<VEHICLE_0> <SPA> 下 周 <SPA> 临 汾 市
+<DICTIONARY_0> <SPA> 高 楼 大 厦
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 八 号
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 八 号
+<TRANSLATE_0> <SPA> 毕 待 克 又 丰 料 <SPA> 西 班 牙 语
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 明 天 下 午
+<FLIGHT_0> <SPA> 周 六 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_0> <SPA> 晚 上 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 海 航
+<FLIGHT_1> <SPA> H V 3 4 9 6
+<FLIGHT_0> <SPA> 下 周 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<FOOD_1> <SPA> 沈 阳 市
+<FLIGHT_0> <SPA> 五 号 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 山 航
+<FLIGHT_0> <SPA> 周 六 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 五 号
+<VEHICLE_0> <SPA> 今 晚 <SPA> 沈 阳 市
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 五 号
+<WEATHER_0> <SPA> 海 口 市 <SPA> 白 天
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 五 号
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 初 四
+<FLIGHT_0> <SPA> 中 秋 节 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<TRAIN_1> <SPA> C 8 9 8 0
+<TRAIN_1> <SPA> D 2 9 1 0
+<TRANSLATE_0> <SPA> 类 尽 厚 简 投 流 相 男 夫 <SPA> 德 语
+<VEHICLE_0> <SPA> 十 五 <SPA> 沈 阳 市
+<VEHICLE_0> <SPA> 初 七 <SPA> 海 口 市
+<FLIGHT_0> <SPA> <DATE_DEFAULT> <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<VEHICLE_0> <SPA> 星 期 日 <SPA> 沈 阳 市
+<TRAIN_1> <SPA> T 4 6
+<TRAIN_0> <SPA> <DATE_DEFAULT> <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 快 车
+<FLIGHT_0> <SPA> 中 秋 节 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 成 都 航 空
+<PERSON_0> <SPA> 陈 数
+<WEATHER_0> <SPA> 沈 阳 市 <SPA> 明 天 下 午
+<FOOD_2> <SPA> 红 薯 丸 子
+<FLIGHT_1> <SPA> X U 0 6 6 0
+<VEHICLE_0> <SPA> 明 天 白 天 <SPA> 海 口 市
+<FLIGHT_1> <SPA> T P 5 9 7 9
+<PERSON_0> <SPA> 张 慧 雯
+<TRANSLATE_0> <SPA> 情 几 穿 心 赛 死 候 足 <SPA> 德 语
+<VEHICLE_0> <SPA> 周 二 <SPA> 巴 中 市
+<TRAIN_1> <SPA> C 4 2 9
+<WEATHER_0> <SPA> 沈 阳 市 <SPA> 五 号
+<FLIGHT_1> <SPA> O R 3 7 3 4
+<WEATHER_1> <SPA> <CITY_DEFAULT> <SPA> 初 八
+<FLIGHT_0> <SPA> 九 号 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 厦 航
+<TRAIN_1> <SPA> C 6 9 4 2
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 白 天
+<FLIGHT_0> <SPA> <DATE_DEFAULT> <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 成 都 航 空
+<VEHICLE_0> <SPA> 明 天 白 天 <SPA> 海 口 市
+<WEATHER_0> <SPA> 沈 阳 市 <SPA> 初 一
+<FOOD_1> <SPA> 沈 阳 市
+<VEHICLE_0> <SPA> 周 二 <SPA> 巴 中 市
+<TRAIN_1> <SPA> Z 1 5 0 8
+<FLIGHT_0> <SPA> 中 秋 节 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<TRANSLATE_0> <SPA> 毕 待 克 又 丰 料 <SPA> 德 语
+<FLIGHT_1> <SPA> R P 8 8 6 7
+<FLIGHT_1> <SPA> Y U 9 1 8 9
+<WEATHER_0> <SPA> 沈 阳 市 <SPA> 五 号
+<TRAIN_0> <SPA> <DATE_DEFAULT> <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 动 车
+<FOOD_2> <SPA> 脆 底 煎 饺
+<FLIGHT_1> <SPA> W Z 9 8 3 5
+<TRANSLATE_0> <SPA> 毕 待 克 又 丰 料 <SPA> 英 语
+<WEATHER_1> <SPA> 海 口 市 <SPA> 八 号
+<TRANSLATE_0> <SPA> 毕 待 克 又 丰 料 <SPA> 汉 语
+<FOOD_1> <SPA> 临 汾 市
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 初 四
+<TRANSLATE_0> <SPA> 睡 <SPA> 英 语
+<PERSON_0> <SPA> 刘 敏
+<TRANSLATE_0> <SPA> 类 尽 厚 简 投 流 相 男 夫 <SPA> 西 班 牙 语
+<TRAVEL_0> <SPA> 沈 阳 市
+<FLIGHT_0> <SPA> 月 末 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_1> <SPA> Z T 9 3 8 8
+<TRAIN_1> <SPA> C 5 3 1
+<FLIGHT_1> <SPA> Z K 1 8 3 1
+<FOOD_2> <SPA> 腐 竹 炖 肉
+<FLIGHT_1> <SPA> B Z 7 7 5 6
+<TRAIN_1> <SPA> C 4 0 1
+<VEHICLE_0> <SPA> 十 五 <SPA> 沈 阳 市
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 初 四
+<FLIGHT_1> <SPA> B R 8 2 6 7
+<FLIGHT_0> <SPA> 周 六 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<PERSON_0> <SPA> 蒋 雪 儿
+<FLIGHT_0> <SPA> 中 秋 节 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 华 夏 航 空
+<FLIGHT_0> <SPA> 中 秋 节 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 昆 明 航 空
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 五 号
+<WEATHER_0> <SPA> 海 口 市 <SPA> 白 天
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 五 号
+<DICTIONARY_0> <SPA> 助 人 为 乐
+<VEHICLE_0> <SPA> 星 期 五 <SPA> 沈 阳 市
+<TRAIN_1> <SPA> Z 2 8 0
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 八 号
+<TRAVEL_0> <SPA> 海 口 市
+<DICTIONARY_0> <SPA> 桀 骜 不 驯
+<TRAVEL_1> <SPA> 庄 园 大 花 园
+<FLIGHT_1> <SPA> T Q 1 4 5 9
+<WEATHER_1> <SPA> 沈 阳 市 <SPA> 明 天 下 午
+<FLIGHT_0> <SPA> 月 末 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 五 号
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 初 四
+<WEATHER_0> <SPA> 海 口 市 <SPA> 五 号
+<WEATHER_0> <SPA> 沈 阳 市 <SPA> 白 天
+<VEHICLE_0> <SPA> 明 天 白 天 <SPA> 巴 中 市
+<FLIGHT_0> <SPA> 周 六 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 国 航
+<TRAVEL_1> <SPA> 四 方 街
+<TRAIN_0> <SPA> <DATE_DEFAULT> <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 快 车
+<FLIGHT_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_0> <SPA> 月 末 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 国 航
+<WEATHER_0> <SPA> 海 口 市 <SPA> 八 号
+<FLIGHT_0> <SPA> 中 秋 节 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<TRAIN_1> <SPA> Z 2 7 6
+<TRAIN_1> <SPA> C 2 3 7
+<FLIGHT_0> <SPA> 周 二 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 昆 明 航 空
+<TRANSLATE_0> <SPA> 激 向 使 果 <SPA> 汉 语
+<FLIGHT_0> <SPA> 下 午 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_0> <SPA> 周 六 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 华 夏 航 空
+<FLIGHT_0> <SPA> 劳 动 节 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<VEHICLE_0> <SPA> 周 二 <SPA> 巴 中 市
+<TRAVEL_1> <SPA> 波 茨 坦 广 场
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 白 天
+<TRANSLATE_0> <SPA> 掌 直 顺 <SPA> 德 语
+<FLIGHT_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 五 号
+<FOOD_2> <SPA> 蒸 出 粒 粒 香 滑 鸡 翅
+<FLIGHT_1> <SPA> Z T 9 3 8 8
+<FOOD_1> <SPA> 巴 中 市
+<FLIGHT_0> <SPA> 周 二 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 西 部 航 空
+<TRAIN_1> <SPA> D 5 1 7
+<PERSON_0> <SPA> 李 健
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 明 天 下 午
+<TRANSLATE_0> <SPA> 掌 直 顺 <SPA> 英 语
+<FLIGHT_0> <SPA> 中 秋 节 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 山 航
+<DICTIONARY_0> <SPA> 人 情 世 故
+<WEATHER_0> <SPA> 沈 阳 市 <SPA> 八 号
+<WEATHER_1> <SPA> 海 口 市 <SPA> 白 天
+<FLIGHT_1> <SPA> N C 3 5 8 8
+<DICTIONARY_0> <SPA> 花 容 月 貌
+<FLIGHT_1> <SPA> W Z 9 8 3 5
+<TRANSLATE_0> <SPA> 激 向 使 果 <SPA> 日 语
+<FLIGHT_0> <SPA> 晚 上 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 华 夏 航 空
+<DICTIONARY_0> <SPA> 柳 暗 花 明
+<TRAIN_1> <SPA> L 2 3 8
+<FLIGHT_0> <SPA> 九 号 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 初 一
+<PERSON_0> <SPA> 陈 数
+<TRAIN_1> <SPA> Z 5 3
+<FLIGHT_1> <SPA> B R 8 2 6 7
+<VEHICLE_0> <SPA> 周 二 <SPA> 沈 阳 市
+<WEATHER_0> <SPA> 沈 阳 市 <SPA> 白 天
+<VEHICLE_0> <SPA> 明 天 白 天 <SPA> 沈 阳 市
+<FLIGHT_0> <SPA> 九 号 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_0> <SPA> 劳 动 节 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 初 四
+<FLIGHT_0> <SPA> 劳 动 节 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 川 航
+<WEATHER_1> <SPA> 沈 阳 市 <SPA> 五 号
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 五 号
+<WEATHER_1> <SPA> 海 口 市 <SPA> 白 天
+<TRAIN_1> <SPA> T 9 5 4 4
+<FLIGHT_0> <SPA> 晚 上 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_1> <SPA> J W 1 6 8 2
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 五 号
+<TRAIN_1> <SPA> G 2 7 3 9
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 八 号
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 白 天
+<PERSON_0> <SPA> 陈 数
+<FLIGHT_1> <SPA> W Q 2 3 6 0
+<TRAIN_0> <SPA> 星 期 五 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 火 车
+<FLIGHT_1> <SPA> T L 8 6 5 1
+<VEHICLE_0> <SPA> 十 五 <SPA> 巴 中 市
+<TRAIN_0> <SPA> <DATE_DEFAULT> <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 高 铁
+<FLIGHT_0> <SPA> 五 号 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 山 航
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 五 号
+<TRANSLATE_0> <SPA> 激 向 使 果 <SPA> 英 语
+<TRANSLATE_0> <SPA> 毕 待 克 又 丰 料 <SPA> 西 班 牙 语
+<WEATHER_0> <SPA> 沈 阳 市 <SPA> 初 四
+<FLIGHT_0> <SPA> 下 周 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 厦 航
+<TRAIN_1> <SPA> G 7 8 9 1
+<PERSON_0> <SPA> 张 慧 雯
+<VEHICLE_0> <SPA> 初 七 <SPA> 临 汾 市
+<FLIGHT_0> <SPA> 九 号 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_1> <SPA> B W 8 7 6 6
+<FLIGHT_1> <SPA> Z T 9 3 8 8
+<DICTIONARY_0> <SPA> 苦 心 孤 诣
+<VEHICLE_0> <SPA> 下 周 <SPA> 海 口 市
+<FLIGHT_1> <SPA> J V 7 2 3 8
+<FLIGHT_0> <SPA> 晚 上 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<TRAIN_1> <SPA> D 1 6 5
+<FLIGHT_0> <SPA> 月 末 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 国 航
+<FLIGHT_1> <SPA> D C 6 3 4 8
+<FLIGHT_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<TRANSLATE_0> <SPA> 情 几 穿 心 赛 死 候 足 <SPA> 俄 语
+<TRAVEL_1> <SPA> 荷 兰 风 车 博 物 馆
+<TRAIN_1> <SPA> C 5 3 1
+<PERSON_0> <SPA> 陈 思 诚
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 明 天 下 午
+<FLIGHT_0> <SPA> 下 周 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 南 航
+<FLIGHT_0> <SPA> 五 号 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_0> <SPA> 周 二 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 西 部 航 空
+<FLIGHT_0> <SPA> 五 号 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<DICTIONARY_0> <SPA> 苦 心 孤 诣
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 白 天
+<FOOD_1> <SPA> 巴 中 市
+<FLIGHT_1> <SPA> Y L 8 1 7 8
+<PERSON_0> <SPA> 张 慧 雯
+<WEATHER_1> <SPA> 巴 中 市 <SPA> <DATE_DEFAULT>
+<WEATHER_1> <SPA> 沈 阳 市 <SPA> 初 四
+<VEHICLE_0> <SPA> 星 期 五 <SPA> 临 汾 市
+<WEATHER_1> <SPA> <CITY_DEFAULT> <SPA> 初 一
+<TRAIN_1> <SPA> K 5 3
+<FLIGHT_0> <SPA> 月 末 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 国 航
+<TRAIN_1> <SPA> T 1 7
+<FLIGHT_0> <SPA> 九 号 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 国 航
+<WEATHER_0> <SPA> 沈 阳 市 <SPA> 明 天 下 午
+<VEHICLE_0> <SPA> 十 五 <SPA> 海 口 市
+<FOOD_1> <SPA> 临 汾 市
+<FLIGHT_0> <SPA> 九 号 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_0> <SPA> 晚 上 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_0> <SPA> 周 六 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 厦 航
+<FLIGHT_0> <SPA> 周 六 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<FOOD_2> <SPA> 青 椒 酿 肉
+<VEHICLE_0> <SPA> 下 周 <SPA> 沈 阳 市
+<FOOD_2> <SPA> 玉 米 炒 肉 末
+<DICTIONARY_0> <SPA> 苦 心 孤 诣
+<WEATHER_0> <SPA> 海 口 市 <SPA> 初 四
+<FLIGHT_1> <SPA> W F 3 7 3 0
+<PERSON_0> <SPA> 李 健
+<WEATHER_0> <SPA> 海 口 市 <SPA> 白 天
+<TRANSLATE_0> <SPA> 类 尽 厚 简 投 流 相 男 夫 <SPA> 汉 语
+<FLIGHT_1> <SPA> O U 9 0 7 3
+<FLIGHT_0> <SPA> 周 二 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<WEATHER_0> <SPA> 沈 阳 市 <SPA> 五 号
+<VEHICLE_0> <SPA> 星 期 五 <SPA> 海 口 市
+<FLIGHT_0> <SPA> 九 号 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 国 航
+<FLIGHT_0> <SPA> 月 末 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<TRAIN_1> <SPA> K 2 6
+<TRAIN_1> <SPA> K 2 1 4
+<VEHICLE_0> <SPA> 今 晚 <SPA> 海 口 市
+<TRAIN_1> <SPA> C 8 7 0 0
+<TRAIN_1> <SPA> Z 4 4 1
+<TRANSLATE_0> <SPA> 类 尽 厚 简 投 流 相 男 夫 <SPA> 韩 语
+<WEATHER_0> <SPA> 沈 阳 市 <SPA> 五 号
+<MOVIE_0> <SPA> 当 幸 福 来 敲 门
+<VEHICLE_0> <SPA> 五 号 <SPA> 海 口 市
+<FLIGHT_0> <SPA> 周 二 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 川 航
+<FLIGHT_1> <SPA> Y X 0 3 1 8
+<DICTIONARY_0> <SPA> 助 人 为 乐
+<TRANSLATE_0> <SPA> 睡 <SPA> 汉 语
+<TRANSLATE_0> <SPA> 毕 待 克 又 丰 料 <SPA> 韩 语
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 五 号
+<TRANSLATE_0> <SPA> 情 几 穿 心 赛 死 候 足 <SPA> 西 班 牙 语
+<TRAIN_1> <SPA> K 2 0 1
+<FLIGHT_1> <SPA> D O 2 9 1 0
+<WEATHER_1> <SPA> 沈 阳 市 <SPA> 白 天
+<FLIGHT_0> <SPA> 周 六 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<TRANSLATE_0> <SPA> 睡 <SPA> 西 班 牙 语
+<MOVIE_0> <SPA> 寻 梦 环 游 记
+<TRANSLATE_0> <SPA> 掌 直 顺 <SPA> 西 班 牙 语
+<FLIGHT_1> <SPA> C C 0 3 9 5
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 五 号
+<FLIGHT_1> <SPA> C F 0 1 0 1
+<TRAIN_1> <SPA> L 3 3 0
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 五 号
+<FLIGHT_0> <SPA> 晚 上 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 昆 明 航 空
+<FOOD_0> <SPA> 柚 子
+<VEHICLE_0> <SPA> 八 号 <SPA> 巴 中 市
+<PERSON_0> <SPA> 白 举 纲
+<FLIGHT_1> <SPA> O U 9 0 7 3
+<VEHICLE_0> <SPA> 十 五 <SPA> 临 汾 市
+<TRAIN_1> <SPA> L 1 1 1 3
+<WEATHER_0> <SPA> 海 口 市 <SPA> 明 天 下 午
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 五 号
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 明 天 下 午
+<FLIGHT_0> <SPA> 晚 上 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<WEATHER_0> <SPA> <CITY_DEFAULT> <SPA> 下 周
+<FLIGHT_0> <SPA> 晚 上 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<VEHICLE_0> <SPA> 八 号 <SPA> 巴 中 市
+<TRAVEL_0> <SPA> 巴 中 市
+<FLIGHT_0> <SPA> 九 号 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 南 航
+<TRAVEL_0> <SPA> 海 口 市
+<TRANSLATE_0> <SPA> 情 几 穿 心 赛 死 候 足 <SPA> 韩 语
+<TRAIN_1> <SPA> C 8 9 8 0
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 初 四
+<TRAIN_0> <SPA> <DATE_DEFAULT> <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 火 车
+<FLIGHT_1> <SPA> Z Z 8 7 7 6
+<TRAIN_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 火 车
+<TRAIN_1> <SPA> K 3 2 1
+<FLIGHT_0> <SPA> 周 六 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 国 航
+<FOOD_2> <SPA> 腐 竹 炖 肉
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 八 号
+<DICTIONARY_0> <SPA> 人 情 世 故
+<FLIGHT_0> <SPA> 九 号 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 西 部 航 空
+<TRANSLATE_0> <SPA> 情 几 穿 心 赛 死 候 足 <SPA> 西 班 牙 语
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 初 四
+<DICTIONARY_0> <SPA> 柳 暗 花 明
+<VEHICLE_0> <SPA> 下 周 <SPA> 巴 中 市
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 八 号
+<FLIGHT_0> <SPA> 中 秋 节 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<FLIGHT_0> <SPA> 九 号 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 山 航
+<FLIGHT_0> <SPA> 下 午 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 成 都 航 空
+<FOOD_2> <SPA> 红 薯 丸 子
+<TRANSLATE_0> <SPA> 毕 待 克 又 丰 料 <SPA> 英 语
+<MOVIE_0> <SPA> 当 幸 福 来 敲 门
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 白 天
+<PERSON_0> <SPA> 包 贝 尔
+<FLIGHT_1> <SPA> R P 8 8 6 7
+<FOOD_2> <SPA> 红 薯 丸 子
+<FLIGHT_0> <SPA> 月 末 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 初 一
+<VEHICLE_0> <SPA> 元 宵 节 <SPA> 海 口 市
+<TRANSLATE_0> <SPA> 睡 <SPA> 日 语
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 明 天 下 午
+<DICTIONARY_0> <SPA> 江 山 如 画
+<FLIGHT_0> <SPA> 劳 动 节 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 山 航
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 八 号
+<WEATHER_1> <SPA> 临 汾 市 <SPA> 明 天 下 午
+<TRANSLATE_0> <SPA> 掌 直 顺 <SPA> 俄 语
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 五 号
+<TRAVEL_0> <SPA> 沈 阳 市
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 白 天
+<FLIGHT_1> <SPA> C K 6 8 4 3
+<TRAIN_1> <SPA> L 5 2 0
+<FLIGHT_0> <SPA> 五 号 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 川 航
+<TRANSLATE_0> <SPA> 毕 待 克 又 丰 料 <SPA> 俄 语
+<TRAIN_1> <SPA> T 9 5 4 4
+<WEATHER_1> <SPA> <CITY_DEFAULT> <SPA> 明 晚
+<WEATHER_1> <SPA> <CITY_DEFAULT> <SPA> 白 天
+<VEHICLE_0> <SPA> 星 期 五 <SPA> 沈 阳 市
+<FLIGHT_1> <SPA> Z Z 8 7 7 6
+<TRAIN_1> <SPA> T 8 7 8 5
+<TRANSLATE_0> <SPA> 毕 待 克 又 丰 料 <SPA> 日 语
+<TRAIN_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> 动 车
+<FLIGHT_0> <SPA> 劳 动 节 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 华 夏 航 空
+<WEATHER_1> <SPA> 海 口 市 <SPA> 初 四
+<FLIGHT_0> <SPA> 中 秋 节 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> 川 航
+<MOVIE_0> <SPA> 素 媛
+<FLIGHT_0> <SPA> 九 号 <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 国 航
+<FOOD_2> <SPA> 蒸 出 粒 粒 香 滑 鸡 翅
+<FLIGHT_0> <SPA> 周 六 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 厦 航
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 初 一
+<WEATHER_0> <SPA> 临 汾 市 <SPA> 白 天
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 明 天 下 午
+<DICTIONARY_0> <SPA> 高 楼 大 厦
+<VEHICLE_0> <SPA> 星 期 日 <SPA> 海 口 市
+<WEATHER_0> <SPA> 巴 中 市 <SPA> 五 号
+<FLIGHT_0> <SPA> 五 号 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<TRANSLATE_0> <SPA> 掌 直 顺 <SPA> 韩 语
+<WEATHER_0> <SPA> 海 口 市 <SPA> <DATE_DEFAULT>
+<WEATHER_1> <SPA> 海 口 市 <SPA> 八 号
+<TRANSLATE_0> <SPA> 毕 待 克 又 丰 料 <SPA> 德 语
+<TRANSLATE_0> <SPA> 激 向 使 果 <SPA> 英 语
+<WEATHER_1> <SPA> 沈 阳 市 <SPA> 五 号
+<WEATHER_1> <SPA> <CITY_DEFAULT> <SPA> 今 晚
+<VEHICLE_0> <SPA> 星 期 五 <SPA> 临 汾 市
+<TRAIN_0> <SPA> <DATE_DEFAULT> <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 快 车
+<FLIGHT_1> <SPA> T L 8 6 5 1
+<TRAIN_1> <SPA> G 1 5 6
+<VEHICLE_0> <SPA> 今 晚 <SPA> 临 汾 市
+<FLIGHT_0> <SPA> 九 号 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> 海 航
+<TRANSLATE_0> <SPA> 激 向 使 果 <SPA> 西 班 牙 语
+<WEATHER_1> <SPA> 巴 中 市 <SPA> 白 天
+<FLIGHT_0> <SPA> 下 午 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<WEATHER_1> <SPA> 沈 阳 市 <SPA> 五 号
+<TRANSLATE_0> <SPA> 睡 <SPA> 日 语
+<TRANSLATE_0> <SPA> 情 几 穿 心 赛 死 候 足 <SPA> 英 语
+<WEATHER_1> <SPA> 沈 阳 市 <SPA> 五 号
+<VEHICLE_0> <SPA> 两 天 以 后 <SPA> 临 汾 市
+<TRAIN_1> <SPA> K 7 2 6 2
+<MOVIE_0> <SPA> 当 幸 福 来 敲 门
+<WEATHER_1> <SPA> 海 口 市 <SPA> 初 一
+<FLIGHT_0> <SPA> 劳 动 节 <SPA> 巴 中 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<TRAIN_0> <SPA> <DATE_DEFAULT> <SPA> 临 汾 市 <SPA> 海 口 市 <SPA> 火 车
+<FLIGHT_0> <SPA> 下 午 <SPA> 临 汾 市 <SPA> 沈 阳 市 <SPA> <FTYPE_DEFAULT>
+<FOOD_0> <SPA> 香 瓜
+<PERSON_0> <SPA> 蒋 雪 儿
+<FLIGHT_0> <SPA> 中 秋 节 <SPA> 巴 中 市 <SPA> 海 口 市 <SPA> <FTYPE_DEFAULT>
+<PERSON_0> <SPA> 白 举 纲
+<WEATHER_1> <SPA> <CITY_DEFAULT> <SPA> 初 八
